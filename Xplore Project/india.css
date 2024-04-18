@@ -1,0 +1,86 @@
+
+.main-india
+{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(128, 97, 185, 0.7),rgba(0,0,0,0.5)), url(taj.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 0;
+    
+}
+.india-button{
+    margin-left: 10px;
+    font-weight: 600;
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 120px;
+    padding: 10px
+   
+}
+
+.mid{
+    margin-top: 10px;
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.5)), url(kerala.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.help{
+    text-align: center;
+    color: white;
+    margin-top: 170px;
+    font-weight: 200;
+}
+.feature{
+    margin-top: 10px;
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.5)),url(him-bg.jpg);
+    background-position: center;
+ 
+}
+.feature h2
+{
+    text-align: center;
+    color: white;
+    padding-top: 35px;
+}
+.item{
+    max-width: 90%;
+    height: 260px;
+    border-radius: 7px;
+    background-color: white;
+   
+}
+.one{
+    background-image: url(Mcleodganj.webp);
+    background-position:right;
+    background-size: cover
+    
+}
+.two{
+    background-image: url(Leh-Ladakh.webp);
+    background-position:center;
+    background-size: cover;
+
+}
+.three{
+    background-image: url(mysore-palace.jpg);
+    background-position:center;
+    background-size: cover;
+
+}
+.four{
+    background-image: url(goa.jpg);
+    background-position:center;
+    background-size: cover;
+
+}
+.feature-container{
+    margin-left: 100px;
+    margin-top: 10vh;
+}
+.row h3,p{
+    margin-top: 10px;
+    color: white;
+}
